@@ -1,0 +1,14 @@
+{
+  "name": "sequencer-test",
+  "version": "1.0.0",
+  "description": "Sequencing test for interview",
+  "scripts": {
+    "test": "jasmine sequencer.spec.js --random=false"
+  },
+  "keywords": [],
+  "author": "Dwayne Hunter",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "jasmine": "^3.2.0"
+  }
+}
